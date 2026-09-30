@@ -3,3 +3,5 @@ available through cloud infrastructure.
 
 Cloud storage provides remote storage
 for files and application data.
+
+Cloud storage can be used for backup, file sharing, and application data.
