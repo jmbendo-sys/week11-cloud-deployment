@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cloud Deployment Lab</title>
+</head>
+Name: John Maverick J. Bendo
+Course: BS Information Technology
+Subject: Platform Technologies
+Week: 11
+
